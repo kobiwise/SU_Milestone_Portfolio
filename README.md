@@ -1,5 +1,5 @@
-# Syracuse University, The School of Information Studies <br/>
 # Milestone Portfolio <br/>
+# Syracuse University, The School of Information Studies <br/>
 April 2021
 
 Kobi Wiseman (Yaakob Vaisman) <br/>
