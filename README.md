@@ -1,10 +1,10 @@
 # Milestone Portfolio <br/>
 # Syracuse University, The School of Information Studies <br/>
-April 2021
 
 Kobi Wiseman (Yaakob Vaisman) <br/>
 SUID: 543673285 <br/>
 email: yvaisman@syr.edu <br/>
+April 2021
 
 # Table of Contents <br/>
 1. My Resume <br/>
